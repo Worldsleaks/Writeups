@@ -70,7 +70,7 @@ As you can see above, It's a Wordpress. We also can see a login page, let's see.
 
 It's worth trying to bruteforce our way in with the wordlist we found before but, we need an username.... What we're going to do is open BurpSuite and send the request to the Intruder. There, we are going to try to guest the username using the wordlist we found before.
 
-We're looking for a http response with a different lenght. Let's see..
+We're looking for a http response with a different lenght. Let's see.. 
 
 ![image](https://user-images.githubusercontent.com/99112106/174277489-072d2794-17e8-4e0e-8bc0-0e46c02f1ac9.png)
 
