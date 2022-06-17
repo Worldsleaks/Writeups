@@ -27,7 +27,7 @@ PORT   STATE SERVICE VERSION
 |      Control connection is plain text
 |      Data connections will be plain text
 |      At session startup, client count was 3
-|      vsFTPd 3.0.3 - secure, fast, stable
+|      vsFTPd 3.0.3 - secure, fast, stable 
 |_End of status
 22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
