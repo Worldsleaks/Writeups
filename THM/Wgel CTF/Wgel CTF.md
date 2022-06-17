@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/99112106/174284175-3c50b849-29d2-44f0-9805-4215d57b4e73.png)
 
-# Wgel CTF
+# Wgel CTF 
 
 ## 1.Enumeration 
 
