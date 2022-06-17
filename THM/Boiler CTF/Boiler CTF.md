@@ -16,7 +16,7 @@ PORT      STATE SERVICE VERSION
 21/tcp    open  ftp     vsftpd 3.0.3
 | ftp-syst: 
 |   STAT: 
-| FTP server status:
+| FTP server status: 
 |      Connected to ::ffff:10.9.0.152
 |      Logged in as ftp
 |      TYPE: ASCII
