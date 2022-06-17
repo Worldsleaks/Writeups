@@ -94,7 +94,7 @@ Let's find out what GTFObins have to say about vim:
 
 ![image](https://user-images.githubusercontent.com/99112106/174273761-1ca0a4da-5834-4942-9e04-a04c1b51fd7c.png)
 
-Okay, let's give that a try!
+Okay, let's give that a try! 
 
 ![image](https://user-images.githubusercontent.com/99112106/174273795-f2a08f6b-3341-4f0e-aeb1-b1fb198bc4d7.png)
 
