@@ -26,7 +26,7 @@ PORT   STATE SERVICE VERSION
 |      Data connections will be plain text
 |      At session startup, client count was 2
 |      vsFTPd 3.0.3 - secure, fast, stable
-|_End of status
+|_End of status 
 | ftp-anon: Anonymous FTP login allowed (FTP code 230)
 |_-rw-r--r--    1 0        0             119 May 17  2020 note_to_jake.txt
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
