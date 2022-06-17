@@ -28,7 +28,7 @@ It seems like we only have 1 way to go xD
 * * *
 ## 2.  Exploring the website
 
-If we visit the website we can see the following:
+If we visit the website we can see the following: 
 
 ![image](https://user-images.githubusercontent.com/99112106/174284889-5e35abad-bd1a-4c53-bfcd-6e6ba70e54d7.png)
 
