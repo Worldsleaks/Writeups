@@ -31,7 +31,7 @@ Service Info: Host: SKYNET; OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Host script results:
 |_clock-skew: mean: 1h40m01s, deviation: 2h53m12s, median: 0s
-| smb-security-mode: 
+| smb-security-mode:  
 |   account_used: guest
 |   authentication_level: user
 |   challenge_response: supported
