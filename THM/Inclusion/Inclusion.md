@@ -81,4 +81,4 @@ Okay, you the boss~~
 
 ![image](https://user-images.githubusercontent.com/99112106/174283425-8168c78a-5294-4385-b95b-39dc9cd02408.png)
 
-Yep. That was a really simple PrivEsc. Retrieve root flag and we're done. Congratz.
+Yep. That was a really simple PrivEsc. Retrieve root flag and we're done. Congratz. 
