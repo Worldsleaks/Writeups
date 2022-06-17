@@ -31,7 +31,7 @@ PORT    STATE SERVICE VERSION
 |   100000  3,4          111/tcp6  rpcbind
 |   100000  3,4          111/udp6  rpcbind
 |   100024  1          41818/udp6  status
-|   100024  1          50356/tcp6  status
+|   100024  1          50356/tcp6  status 
 |   100024  1          58551/tcp   status
 |_  100024  1          60545/udp   status
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
