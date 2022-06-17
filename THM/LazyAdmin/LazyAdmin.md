@@ -21,7 +21,7 @@ PORT   STATE SERVICE VERSION
 80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
 |_http-title: Apache2 Ubuntu Default Page: It works
 |_http-server-header: Apache/2.4.18 (Ubuntu)
-Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel 
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 16.70 seconds
